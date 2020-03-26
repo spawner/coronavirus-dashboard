@@ -1,4 +1,4 @@
-# Coronavirus Dashboard
+# Coronavirus Crash Tracker
 
 Stay ahead of these volatile markets! 
 
